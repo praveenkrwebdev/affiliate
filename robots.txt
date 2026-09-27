@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://praveenkrwebdev.github.io/affiliate/sitemap.xml
